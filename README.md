@@ -9,7 +9,7 @@ yesBtn.addEventListener("click", () => {
   question.innerHTML = "I like you";
   secondQuestion.innerHTML = "How about you?"; 
   img.src =
-    "https://raw.githubusercontent.com/DzarelDeveloper/Question/main/AskCrush1.png";
+    "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/AskCrush1.png";
 });
 
 noBtn.addEventListener("mouseover", () => {
